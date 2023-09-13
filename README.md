@@ -7,12 +7,12 @@ Learning Git and GitHub
   => Windows  (Git Bash)
       Chek Version on Successfull download 
       open cmd (git --version )
-=> Configuring Git 
+# Configuring Git 
   1. Open Git Bash
   2.  git config --global user.name "My Name"
   3.  git config --global user.email "Email used to create GitHub"
   4.  Check the configuration :  git config --list
-=> Open Visual Studio Code
+# Open Visual Studio Code
  1.Open Folder in VS Code
  2. Open Terminal (ctrl + ` or ctrl + j )
 # Clone and Status
