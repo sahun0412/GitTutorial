@@ -41,8 +41,8 @@ Learning Git and GitHub
   git add <- file name ->
 
   2. Commit : it is the record of change .
-   git commit -, " some meaningful message"
+   git commit -m "some meaningful message"
 
   # Push 
-   1. Push : upload loacl repo into remote repo .
+   1. Push : upload local repo into remote repo .
     git push origin main 
