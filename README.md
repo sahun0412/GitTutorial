@@ -38,7 +38,7 @@ Learning Git and GitHub
 # Add and Commit
   1. Add : adds new changed files/file in your working directory to the Git staging area (i.e. on GitHub Repo) .
 
-  git add <- file name ->
+  git add <- file name -> or git add . 
 
   2. Commit : it is the record of change .
    git commit -m "some meaningful message"
@@ -46,3 +46,22 @@ Learning Git and GitHub
   # Push 
    1. Push : upload local repo into remote repo .
     git push origin main 
+
+  # Init Command
+   1. mkdir: make new dir in loacl machine .
+   2. init : used to create a new git repo .
+     git init
+   3. Add  : adds all new files or instead of . you can use file name .
+    git add . 
+
+  4. create a new repo on GitHub
+  5. add local repo to repo on github
+    git remote add origin <- link ->
+  
+  6. Verify Remote : git remote -v
+
+  7. to check branch : git branch 
+
+  8. to rename branch : git branch -M main 
+
+  9. git push -u origin main : upstream 
