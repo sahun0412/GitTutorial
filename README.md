@@ -48,7 +48,7 @@ Learning Git and GitHub
     git push origin main 
 
   # Init Command
-   1. mkdir: make new dir in loacl machine .
+   1. mkdir: make new dir in local machine .
    2. init : used to create a new git repo .
      git init
    3. Add  : adds all new files or instead of . you can use file name .
